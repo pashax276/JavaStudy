@@ -21,6 +21,7 @@ public class BubbleSort {
                     int tmp = array[i];
                     array[i] = array[i + 1];
                     array[i + 1] = tmp;
+
                 }
             }
         }
