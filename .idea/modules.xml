@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BubbleSort/BubbleSort.iml" filepath="$PROJECT_DIR$/BubbleSort/BubbleSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/GolovachCourses.iml" filepath="$PROJECT_DIR$/GolovachCourses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InvertArrays/InvertArrays.iml" filepath="$PROJECT_DIR$/InvertArrays/InvertArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiplyArray/MultiplyArray.iml" filepath="$PROJECT_DIR$/MultiplyArray/MultiplyArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/permutation/permutation.iml" filepath="$PROJECT_DIR$/permutation/permutation.iml" />
     </modules>
   </component>
